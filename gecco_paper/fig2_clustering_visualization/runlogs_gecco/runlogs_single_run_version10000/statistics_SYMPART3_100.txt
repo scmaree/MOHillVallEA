@@ -1,0 +1,3 @@
+# Generation  Evaluations  Time (s)  Best_obj[0]  Best_obj[1]  Hypervol.   IGD         IGDX        SR    Appr.set  [ Pop.index  Subgen.  Pop.size  Subpops ]
+           0       23289     122.673   2.127e-05   4.662e-03   3.497e-03   6.486e-02   1.347e-01  0.0000         100  [    0      1      10000         37 ]
+           1       38254     170.452   1.742e-07   3.445e-04   9.496e-03   6.007e-02   1.073e-01  0.0000         100  [    0      2      10000         57 ]
